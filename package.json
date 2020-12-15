@@ -24,6 +24,11 @@
   },
   "homepage": "https://github.com/jduell12/staticTesting#readme",
   "dependencies": {
+    "@babel/cli": "^7.12.10",
+    "@babel/core": "^7.12.10",
+    "@babel/preset-env": "^7.12.10",
+    "@typescript-eslint/eslint-plugin": "^4.10.0",
+    "@typescript-eslint/parser": "^4.10.0",
     "eslint": "^7.15.0",
     "eslint-config-prettier": "^7.0.0",
     "husky": "^4.3.6",
